@@ -11,3 +11,5 @@ dotnet run --project ./src/Presentation.Api
 ```bash
 dotnet test
 ```
+
+The project will be running at: http://localhost:5171/swagger/index.html
